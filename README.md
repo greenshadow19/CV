@@ -1,2 +1,3 @@
 # CV
-Some of my CV can be found here
+`HH_cv` - cv with full information from the site hh.ru
+`Kirill_Kovalkov` - designed cv, to be updated
