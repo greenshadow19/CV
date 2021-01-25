@@ -1,5 +1,5 @@
 # CV
 
-`HH_cv` - cv with full information from the site hh.ru
+`Kovalkov_Kirill_HH.pdf` - cv with full information from the site hh.ru
 
-`Kirill_Kovalkov` - designed cv, to be updated
+`Kirill_Kovalkov.pdf` - designed cv, to be updated
