@@ -1,0 +1,23 @@
+\documentclass[letterpaper,11pt]{article}
+\usepackage[style=ieee,url=false,doi=false,maxbibnames=99,sorting=ydnt,dashed=false]{biblatex}
+\bibliography{papers}
+
+\def\theme{MidnightBlue}
+\usepackage{simplecv}
+
+\boldname{Kirill}{Kovalkov}{}
+
+\begin{document}
+\headinginline{Kirill Kovalkov}{
+    Email: \email{kovalkov\_kirill@outlook.com} \\
+    GitHub: \github{greenshadow19}\\
+    Phone: +7 (916) 745-48-79
+}
+\import{sections/}{education.tex}
+\import{sections/}{experience.tex}
+\import{sections/}{skills.tex}
+\import{sections/}{projects.tex}
+\import{sections/}{publications.tex}
+\import{sections/}{certificates.tex}
+
+\end{document}
